@@ -8,7 +8,7 @@
 
 
 
-![My Profile](https://avatars.githubusercontent.com/u/117622319?v=4)
+=
 
 ## About Me 
 Samitha Nilupul | Undergraduate in Computer Science | Self-motivated and hard-working | Passionate about learning and creating new things.
